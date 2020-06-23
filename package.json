@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "start": "chmod +x ./denon && DENO_DIR=$PWD/.deno ./denon src/server.ts"
+  }
+}
